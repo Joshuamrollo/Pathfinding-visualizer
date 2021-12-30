@@ -1,0 +1,26 @@
+.node {
+  width: 26px;
+  height: 25.5px;
+  outline: 2px solid black;
+  display: inline-block;
+}
+
+.node-wall {
+  background-color: black;
+}
+
+.node-visited {
+  background-color: red;
+}
+
+.node-shortest-path {
+  background-color: yellow;
+}
+
+.node-start {
+  background-color: green;
+}
+
+.node-finish {
+  background-color: orangered;
+}
