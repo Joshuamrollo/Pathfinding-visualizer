@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pathfinding-Visualizer/static/css/main.8248fbf7.chunk.css",
-    "main.js": "/Pathfinding-Visualizer/static/js/main.ebdc7239.chunk.js",
-    "main.js.map": "/Pathfinding-Visualizer/static/js/main.ebdc7239.chunk.js.map",
-    "runtime-main.js": "/Pathfinding-Visualizer/static/js/runtime-main.e81c9b39.js",
-    "runtime-main.js.map": "/Pathfinding-Visualizer/static/js/runtime-main.e81c9b39.js.map",
-    "static/js/2.35939ccb.chunk.js": "/Pathfinding-Visualizer/static/js/2.35939ccb.chunk.js",
-    "static/js/2.35939ccb.chunk.js.map": "/Pathfinding-Visualizer/static/js/2.35939ccb.chunk.js.map",
-    "index.html": "/Pathfinding-Visualizer/index.html",
-    "static/css/main.8248fbf7.chunk.css.map": "/Pathfinding-Visualizer/static/css/main.8248fbf7.chunk.css.map",
-    "static/js/2.35939ccb.chunk.js.LICENSE.txt": "/Pathfinding-Visualizer/static/js/2.35939ccb.chunk.js.LICENSE.txt"
+    "main.css": "/Pathfinding-visualizer/static/css/main.8248fbf7.chunk.css",
+    "main.js": "/Pathfinding-visualizer/static/js/main.ebdc7239.chunk.js",
+    "main.js.map": "/Pathfinding-visualizer/static/js/main.ebdc7239.chunk.js.map",
+    "runtime-main.js": "/Pathfinding-visualizer/static/js/runtime-main.d083aafd.js",
+    "runtime-main.js.map": "/Pathfinding-visualizer/static/js/runtime-main.d083aafd.js.map",
+    "static/js/2.35939ccb.chunk.js": "/Pathfinding-visualizer/static/js/2.35939ccb.chunk.js",
+    "static/js/2.35939ccb.chunk.js.map": "/Pathfinding-visualizer/static/js/2.35939ccb.chunk.js.map",
+    "index.html": "/Pathfinding-visualizer/index.html",
+    "static/css/main.8248fbf7.chunk.css.map": "/Pathfinding-visualizer/static/css/main.8248fbf7.chunk.css.map",
+    "static/js/2.35939ccb.chunk.js.LICENSE.txt": "/Pathfinding-visualizer/static/js/2.35939ccb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e81c9b39.js",
+    "static/js/runtime-main.d083aafd.js",
     "static/js/2.35939ccb.chunk.js",
     "static/css/main.8248fbf7.chunk.css",
     "static/js/main.ebdc7239.chunk.js"
